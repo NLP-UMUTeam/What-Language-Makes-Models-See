@@ -164,7 +164,7 @@ The lexical-analysis manifest uses the same raw-result entries as the main metri
 
 ```json
 {
-  "path": "../results/qwen3_english.jsonl",
+  "path": "../results_english/qwen_3_32b_visbias_all_tasks_english",
   "language": "en",
   "condition": "visual",
   "model_name": "qwen3_vl_32b",
