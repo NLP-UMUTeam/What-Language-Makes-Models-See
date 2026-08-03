@@ -1,0 +1,38 @@
+[
+  {
+    "metrics_dir": "./qwen_3_32b_metrics",
+    "model_name": "qwen3_vl_32b",
+    "display_name": "Qwen3-VL-32B",
+    "order": 1
+  },
+  {
+    "metrics_dir": "./gemma_3_27b_metrics",
+    "model_name": "gemma3_27b",
+    "display_name": "Gemma-3-27B",
+    "order": 2
+  },
+  {
+    "metrics_dir": "./gemma_4_31b_metrics",
+    "model_name": "gemma4_31b",
+    "display_name": "Gemma-4-31B",
+    "order": 3
+  },
+  {
+    "metrics_dir": "./ministral_14b_metrics",
+    "model_name": "ministral_14b",
+    "display_name": "Ministral-14B",
+    "order": 4
+  },
+  {
+    "metrics_dir": "./llava-v1.6-vicuna-13b_metrics",
+    "model_name": "llava-v1.6-vicuna-13b",
+    "display_name": "LlaVa-Vicuna-13B",
+    "order": 5
+  },
+  {
+    "metrics_dir": "./llava-1.5-13b__metrics",
+    "model_name": "llava-1.5-13b",
+    "display_name": "LlaVa-13B",
+    "order": 6
+  }
+]

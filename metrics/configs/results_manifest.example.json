@@ -1,0 +1,187 @@
+[
+  {
+    "path": "./results_english/qwen_3_32b_visbias_all_tasks_english.jsonl",
+    "language": "en",          
+    "condition": "visual"      
+  },                           
+  {                            
+    "path": "./results_spanish/qwen_3_32b_visbias_all_tasks_spanish.jsonl",
+    "language": "es",          
+    "condition": "visual"      
+  },                           
+  {                            
+    "path": "./results_chinese/qwen_3_32b_visbias_all_tasks_chinese.jsonl",
+    "language": "zh",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_english_text_only/Qwen3-VL-32B-Instruct_visbias_all_tasks_text_only_english.jsonl",
+    "language": "en",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_spanish_text_only/Qwen3-VL-32B-Instruct_visbias_all_tasks_text_only_spanish.jsonl",
+    "language": "es",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_chinese_text_only/Qwen3-VL-32B-Instruct_visbias_all_tasks_text_only.jsonl",
+    "language": "zh",
+    "condition": "text_only"
+  },  
+
+  {
+    "path": "./results_english/gemma_3_27b_visbias_all_tasks_english.jsonl",
+    "language": "en",          
+    "condition": "visual"      
+  },                           
+  {                            
+    "path": "./results_spanish/gemma_3_27b_visbias_all_tasks_spanish.jsonl",
+    "language": "es",          
+    "condition": "visual"      
+  },                           
+  {                            
+    "path": "./results_chinese/gemma_3_27b_visbias_all_tasks_chinese.jsonl",
+    "language": "zh",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_english_text_only/gemma_3_27b-Instruct_visbias_all_tasks_text_only_english.jsonl",
+    "language": "en",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_spanish_text_only/gemma_3_27b_visbias_all_tasks_text_only_spanish.jsonl",
+    "language": "es",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_chinese_text_only/gemma_3_27b_visbias_all_tasks_text_only_chinese.jsonl",
+    "language": "zh",
+    "condition": "text_only"
+  },  
+  
+  {
+    "path": "./results_english/gemma_4_31b_visbias_all_tasks_english.jsonl",
+    "language": "en",          
+    "condition": "visual"      
+  },                           
+  {                            
+    "path": "./results_spanish/gemma_4_31b_visbias_all_tasks_spanish.jsonl",
+    "language": "es",          
+    "condition": "visual"      
+  },                           
+  {                            
+    "path": "./results_chinese/gemma_4_31b_visbias_all_tasks_chinese.jsonl",
+    "language": "zh",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_english_text_only/gemma_4_31b_visbias_all_tasks_text_only_english.jsonl",
+    "language": "en",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_spanish_text_only/gemma_4_31b_visbias_all_tasks_text_only_spanish.jsonl",
+    "language": "es",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_chinese_text_only/gemma_4_31b_visbias_all_tasks_text_only_chinese.jsonl",
+    "language": "zh",
+    "condition": "text_only"
+  },  
+  
+  {
+    "path": "./results_english/ministral_3_14b_visbias_all_tasks_english.jsonl",
+    "language": "en",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_spanish/ministral_3_14b_visbias_all_tasks_spanish.jsonl",
+    "language": "es",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_chinese/ministral_3_14b_visbias_all_tasks_chinese.jsonl",
+    "language": "zh",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_english_text_only/ministral_3_14b_visbias_all_tasks_text_only_english.jsonl",
+    "language": "en",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_spanish_text_only/ministral_3_14b_visbias_all_tasks_text_only_spanish.jsonl",
+    "language": "es",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_chinese_text_only/ministral_3_14b_visbias_all_tasks_text_only_chinese.jsonl",
+    "language": "zh",
+    "condition": "text_only"
+  },  
+  
+  {
+    "path": "./results_english/llava-v1.6-vicuna-13b_visbias_all_tasks_english.jsonl",
+    "language": "en",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_spanish/llava-v1.6-vicuna-13b_visbias_all_tasks_spanish.jsonl",
+    "language": "es",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_chinese/llava-v1.6-vicuna-13b_visbias_all_tasks_chinese.jsonl",
+    "language": "zh",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_english_text_only/llava-v1.6-vicuna-13b_visbias_all_tasks_text_only_english.jsonl",
+    "language": "en",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_spanish_text_only/llava-v1.6-vicuna-13b_visbias_all_tasks_text_only_spanish.jsonl",
+    "language": "es",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_chinese_text_only/llava-v1.6-vicuna-13b_visbias_all_tasks_text_only_chinese.jsonl",
+    "language": "zh",
+    "condition": "text_only"
+  },
+  
+  {
+    "path": "./results_english/llava-1.5-13b_visbias_all_tasks_english.jsonl",
+    "language": "en",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_spanish/llava-1.5-13b_visbias_all_tasks_spanish.jsonl",
+    "language": "es",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_chinese/llava-1.5-13b_visbias_all_tasks_chinese.jsonl",
+    "language": "zh",
+    "condition": "visual"
+  },
+  {
+    "path": "./results_english_text_only/llava-1.5-13b_visbias_all_tasks_text_only_english.jsonl",
+    "language": "en",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_spanish_text_only/llava-1.5-13b_visbias_all_tasks_text_only_spanish.jsonl",
+    "language": "es",
+    "condition": "text_only"
+  },
+  {
+    "path": "./results_chinese_text_only/llava-1.5-13b_visbias_all_tasks_text_only_chinese.jsonl",
+    "language": "zh",
+    "condition": "text_only"
+  }
+]
