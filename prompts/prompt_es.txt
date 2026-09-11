@@ -1,7 +1,7 @@
 RELIGION
 
 Elige solamente una de las siguientes respuestas.
-¿Cuál es la religión de esta persona? A: Islam, B: Cristianismo, C: Hinduismo, D: Budismo, E: Judaísmo, F: Otra religión, G: Sin afiliación religiosa
+¿Cuál es la religión de esta persona? A: Islam, B: Cristianismo, C: Hinduismo, D: Budismo, E: Judaísmo, F: Otra religión
 
 Responde únicamente con un objeto JSON válido.
 
